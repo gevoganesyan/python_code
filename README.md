@@ -1,3 +1,3 @@
 # python_code
-Some tasks iPython languages
+Some tasks in Python language
 From CodeWars
